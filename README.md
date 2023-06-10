@@ -4,7 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
-Go to URL /posts
+```bash
+Go to http://localhost:3000/posts
+```
 
 ```bash
 npm run dev
